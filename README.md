@@ -1,2 +1,2 @@
 # Luciano Siqueira
-![banner](https://www.projetodraft.com/wp-content/uploads/2017/08/cognitive_computing.jpg.webp)
+![banner](https://assets.uninove.br/headers/Programa%C3%A7%C3%A3o-para-web-Highlight.jpg?mtime=20201113122932&focal=none)
