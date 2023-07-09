@@ -1,7 +1,7 @@
 # Luciano Siqueira
 ![banner](https://assets.uninove.br/headers/Programa%C3%A7%C3%A3o-para-web-Highlight.jpg?mtime=20201113122932&focal=none)
 ### Hi 👋
-I am student learning language programming how java, c, free pascal, python and sql server and looking for opportunities and collabaration in projects.
+I am student learning language programming how java, c,c++ qt creator,free pascal and looking for opportunities and collabaration in projects.
 - 🔭 I’m currently working machine language in mechanical metal industry also, I am brushing up my data structures and algorithms skills regularly.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=lucianosiqueirasp)
